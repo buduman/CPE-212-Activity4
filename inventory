@@ -1,13 +1,13 @@
 [web_servers]
-192.168.56.12
-192.168.56.13
-192.168.56.14
+server1
+server2
+centosbuduan
 
 [db_servers]
-192.168.56.15
-192.168.56.14
+server3
+centosbuduan
 
 [file_servers]
-192.168.56.14
+centosbuduan
 
 
